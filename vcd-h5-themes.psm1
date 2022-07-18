@@ -15,6 +15,10 @@
 # Date:     26th January 2022
 # Version: 1.6.0
 # Updates: For recent VCD releases (10.3.2)
+#
+# Date:     18th July 2022
+# Version: 1.6.1
+# Updates: Fixed Get-Branding and updated Publish-Logo
 
 # Get-SessionId is a helper function that gets the SessionId of the vCloud
 # session (Connect-CIServer) that matches the specified vCD Host endpoint.
